@@ -50,5 +50,5 @@ const TodoList = ()=> {
     );
 }
 
-export default TodoList
+export default TodoList;
 
